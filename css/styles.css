@@ -64,3 +64,8 @@ body {
 .border-info {
 	color: white;
 }
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
